@@ -1,0 +1,44 @@
+# =========================
+# SketchUp
+# =========================
+
+# Archivos de respaldo (backups)
+*.skb
+*.~skp
+
+# Archivos temporales
+*.tmp
+*.temp
+*.bak
+*.autosave
+
+# Archivos de bloqueo
+*.lock
+*.lck
+
+# =========================
+# Sistema operativo
+# =========================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# =========================
+# Editores
+# =========================
+
+# VS Code / Cursor
+.vscode/
+.cursor/
+
+# =========================
+# Logs
+# =========================
+*.log
