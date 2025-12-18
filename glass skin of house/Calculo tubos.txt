@@ -4,9 +4,9 @@ Tipo de tubo
 Medida de cada panel de vidrio
 	81.6 cm x 81.35 cm
 	81.6 cm x 81.4 cm (redondeado)
-	81.6 cm x 80.0 cm (oficial)
-	816 mm x 800 mm (oficial)
-
+	81.6 cm x 80.0 cm (oficial x)
+	816 mm x 800 mm (oficial x)
+	816 mm x 795 mm (oficial definitivo V3)
 
 Cantidad de tubos por piso
 	260 x 3 = 780 cm (Tubos verticales Piso 1)
