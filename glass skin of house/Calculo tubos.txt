@@ -6,7 +6,7 @@ Medida de cada panel de vidrio
 	81.6 cm x 81.4 cm (redondeado)
 	81.6 cm x 80.0 cm (oficial x)
 	816 mm x 800 mm (oficial x)
-	816 mm x 795 mm (oficial definitivo V3)
+	816 mm x 785 mm (oficial definitivo V4)
 
 Cantidad de tubos por piso
 	260 x 3 = 780 cm (Tubos verticales Piso 1)
@@ -14,15 +14,28 @@ Cantidad de tubos por piso
 	270 x 3 = 810 cm (Tubos verticales Piso 3)
 	165 x 15 = 2475 cm (Tubos horizontales todos los piso)
 
-Materiales
-	Cantidad de tubos 
+	Cantidad de tubos estimados 
 		total 4818 cm = 48.18 m = 8.03 tubos = 9 tubos
+
+Materiales
+	10 Tubo de 30x60 con pisavidrio
+	Angulares reforzado 25x25 o 30x30	
+	broca nro 3 (unir tubos)
+	broca nro 6 (unir tubo con la pared)
+	broca nro 10 (perforar para que pase el tornillo)
+	Tornillos 6x1/2
+	Tornillo punta de broca / tornillo autoperforante
+	Prensa
+	brazos de 40 cm de largo
+	Cinta doble contacto rojo
+	Silicona estructural certificado
+	Limador
 
 Presupuesto
 2200 = Vidrio de 6 mm
 2200 = Tubos de aluminio 30x60 
 1000 = Silicona estructural, tirafondo, ramplus, etc  
-2900 = Mano de obra
+2400 = Mano de obra
 
 943.30 (alto en software)
 	13*0.6 = 7.8
