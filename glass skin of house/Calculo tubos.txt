@@ -16,9 +16,22 @@ Cantidad de tubos por piso
 
 	Cantidad de tubos estimados 
 		total 4818 cm = 48.18 m = 8.03 tubos = 9 tubos
+		1.65 m x 19 = 31.35 m (horizontales)
+		(primer piso)
+		2.60 m x 3 = 4.95 
+		0.219 m x 3 = 0.657
+		(segundo piso)
+		2.52 m x 3 = 7.56 
+		0.278 m x 3 = 0.834
+		(tercer piso)
+		2.70 m x 3 = 8.1  
+		0.24 m x 3 = 0.72
+		0.88 m x 3 = 2.64
 
-Materiales
-	10 Tubo de 30x60 con pisavidrio
+		Total 56.811 m = 56.811/6 = 9.47 = 10 tubos.
+ Materiales
+	10 Tubo de 30x60 para estructura
+	3 tubos de 30x30 para proyectante
 	Angulares reforzado 25x25 o 30x30	
 	broca nro 3 (unir tubos)
 	broca nro 6 (unir tubo con la pared)
@@ -30,6 +43,8 @@ Materiales
 	Cinta doble contacto rojo
 	Silicona estructural certificado
 	Limador
+
+30x30 proyecto
 
 Presupuesto
 2200 = Vidrio de 6 mm
@@ -43,4 +58,10 @@ Presupuesto
 
 972 (alto albañil)
 
-
+VENTANA PASILLO
+	Tamano de vidrio = 487 mm x 547 mm
+	Cantidad de vidrios = 8
+	222.50 x 3 = 667.5 (vertical)
+	99.30 x 2 = 198.6 (horizontal)
+	45.15 x 6 = 270.9 (horizontal cortes)
+	total = 1.137 cm = 11.37 m = 11.37/6=1.89 = 2 barras
