@@ -1,8 +1,8 @@
 Tipo de tubo
-	Tubo 30x60 color champan
+	Tubo 30x60 color champagne ok
 
 Medida de cada panel de vidrio
-	816 mm x 720 mm v6 (26 piezas)
+	816 mm x 720 mm v6 (26 piezas) ok
 
 Cantidad de tubos por piso
 	260 x 3 = 780 cm (Tubos verticales Piso 1)
@@ -54,6 +54,10 @@ Presupuesto
 
 944 (alto albañil)
 
+28.32 m
+33 m
+61.32 m
+ 60.489 m
 
 
 VENTANA PASILLO
