@@ -2,11 +2,7 @@ Tipo de tubo
 	Tubo 30x60 color champan
 
 Medida de cada panel de vidrio
-	81.6 cm x 81.35 cm
-	81.6 cm x 81.4 cm (redondeado)
-	81.6 cm x 80.0 cm (oficial x)
-	816 mm x 800 mm (oficial x)
-	816 mm x 785 mm (oficial definitivo V4)
+	816 mm x 720 mm v6 (26 piezas)
 
 Cantidad de tubos por piso
 	260 x 3 = 780 cm (Tubos verticales Piso 1)
@@ -56,7 +52,9 @@ Presupuesto
 	13*0.6 = 7.8
 		935.5
 
-972 (alto albañil)
+944 (alto albañil)
+
+
 
 VENTANA PASILLO
 	Tamano de vidrio = 487 mm x 547 mm
