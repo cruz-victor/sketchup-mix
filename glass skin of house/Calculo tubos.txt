@@ -67,3 +67,11 @@ VENTANA PASILLO
 	99.30 x 2 = 198.6 (horizontal)
 	45.15 x 6 = 270.9 (horizontal cortes)
 	total = 1.137 cm = 11.37 m = 11.37/6=1.89 = 2 barras
+
+
+fachada
+	816x720 ok
+pasillo
+	486x548	ok
+lavanderia
+	548x548 ok
