@@ -75,3 +75,20 @@ vidrio pasillo (8)
 	486x548	ok
 vidrio lavanderia (12)
 	548x548 ok
+
+
+------------
+ventana pasillo
+2.20 x 2 = 4.4
+0.99 x 2 = 1.98
+0.4515 x 6 = 2.709
+
+
+9.089 / 6 = 1.51 tubo
+
+ventana aire luz
+2.20 x 4 = 8.8
+0.5122 x 9 = 4.6098
+1.67 x 2 = 3.34
+
+16.7498 = 2.79 tubos
