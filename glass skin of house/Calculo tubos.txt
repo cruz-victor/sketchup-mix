@@ -78,17 +78,25 @@ vidrio lavanderia (12)
 
 
 ------------
-ventana pasillo
-2.20 x 2 = 4.4
-0.99 x 2 = 1.98
-0.4515 x 6 = 2.709
+ventana pasillo (cm)
+222.2 x 2 = 444.4 (vertical largo) ok
+216.2 x 1 = 216.2 (vertical corto) ok
+99 x 2 = 198 (horizontal largo) ok
+45 x 6 = 270 (horizontal corto) ok
+
+9.089 / 6 = 1.51 = 2 tubo
 
 
-9.089 / 6 = 1.51 tubo
+tamaño de vidrio 48.60 cm (ancho) x 54.80 cm (alto)
 
-ventana aire luz
-2.20 x 4 = 8.8
-0.5122 x 9 = 4.6098
-1.67 x 2 = 3.34
 
-16.7498 = 2.79 tubos
+--------------
+ventana lavanderia (cm)
+222.2 x 2 = 444.4 (vertical largo) ok
+216.2 x 2 = 432.4 (vertical corto) ok
+51.7 x 9 = 465.3 (horizontal corto) ok
+167 x 2 = 334 (horizontal largo) ok
+
+16.7494 / 6 = 2.79 = 3 tubos
+
+tamaño de vidrio 54.87 cm (ancho) x 54.80 cm (alto)
